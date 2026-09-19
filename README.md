@@ -2,7 +2,7 @@
 
 Je transforme des besoins parfois un peu flous en **sites, campagnes et automatisations qui servent vraiment**.
 
-Je travaille en freelance avec [Semzen](https://semzen.fr), entre SEO, Google Ads, e-commerce, données et IA. J’aime autant comprendre pourquoi quelque chose bloque que construire la solution qui va avec.
+Je travaille en freelance, entre SEO, Google Ads, e-commerce, données et IA. J’aime autant comprendre pourquoi quelque chose bloque que construire la solution qui va avec.
 
 ## Ce que j’aime fabriquer
 
