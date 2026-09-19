@@ -1,23 +1,24 @@
-# Bonjour, je suis Guillaume Gonano
+# Salut, moi c’est Guillaume 👋
 
-Je suis consultant freelance en **SEO, Google Ads, e-commerce et automatisation web** au sein de [Semzen](https://semzen.fr).
+Je transforme des besoins parfois un peu flous en **sites, campagnes et automatisations qui servent vraiment**.
 
-J’accompagne les entreprises de la stratégie à la mise en œuvre : comprendre un besoin, construire une solution utile, la mesurer et l’améliorer dans la durée.
+Je travaille en freelance avec [Semzen](https://semzen.fr), entre SEO, Google Ads, e-commerce, données et IA. J’aime autant comprendre pourquoi quelque chose bloque que construire la solution qui va avec.
 
-## Ce que je fais
+## Ce que j’aime fabriquer
 
-- **SEO** : audits, stratégie de contenu, optimisation technique et suivi de la visibilité.
-- **Google Ads** : structuration, pilotage et analyse de campagnes orientées rentabilité.
-- **E-commerce et web** : amélioration de sites, parcours clients et outils internes.
-- **Automatisation et IA** : workflows n8n, API, Supabase et assistants adaptés aux usages métier.
+- des sites plus clairs, plus rapides et plus faciles à trouver ;
+- des campagnes publicitaires pilotées par les vrais résultats ;
+- des outils internes qui évitent les copier-coller et les tâches répétitives ;
+- des passerelles entre API, n8n, Supabase et les outils métier ;
+- des usages de l’IA qui font gagner du temps sans compliquer le quotidien.
 
-## Ma façon de travailler
+## Ma boussole
 
-Je privilégie les solutions simples à utiliser, mesurables et vraiment maintenables. Le code est un moyen : l’objectif reste toujours de résoudre un problème concret.
+Faire simple à utiliser, propre à maintenir et utile à mesurer. Le code n’est jamais le but : c’est l’outil qui permet de passer de l’idée au concret.
 
-## Quelques repères
+## Par ici
 
-- Site : [semzen.fr](https://semzen.fr)
-- Contribution open source : [sélection de l’interface audio dans Guitar Tools pour Raycast](https://github.com/raycast/extensions/pull/24280)
-- LinkedIn : [Guillaume Gonano](https://www.linkedin.com/in/guillaume-gonano/)
-- Contact : [contact@semzen.fr](mailto:contact@semzen.fr)
+- 🌐 [semzen.fr](https://semzen.fr)
+- 🧩 [Ma contribution à Guitar Tools pour Raycast](https://github.com/raycast/extensions/pull/24280)
+- 💼 [LinkedIn](https://www.linkedin.com/in/guillaume-gonano/)
+- 👋 [contact@semzen.fr](mailto:contact@semzen.fr)
