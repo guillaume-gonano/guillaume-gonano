@@ -1,20 +1,23 @@
 # Salut, moi c’est Guillaume 👋
 
-Je transforme des besoins parfois un peu flous en **sites, campagnes et automatisations qui servent vraiment**.
+Je suis **chef de projet web** et j’aide les entreprises à transformer leurs idées en résultats concrets.
 
-Je travaille en freelance, entre SEO, Google Ads, e-commerce, données et IA. J’aime autant comprendre pourquoi quelque chose bloque que construire la solution qui va avec.
+Mon travail consiste surtout à comprendre un besoin, choisir les bons outils et faire avancer le projet jusqu’à une solution réellement utilisable. Selon les sujets, cela peut toucher aux sites web, à l’e-commerce, au SEO, à la publicité en ligne, aux données ou à l’automatisation.
 
-## Ce que j’aime fabriquer
+## Le développement dans tout ça
 
-- des sites plus clairs, plus rapides et plus faciles à trouver ;
-- des campagnes publicitaires pilotées par les vrais résultats ;
-- des outils internes qui évitent les copier-coller et les tâches répétitives ;
-- des passerelles entre API, n8n, Supabase et les outils métier ;
-- des usages de l’IA qui font gagner du temps sans compliquer le quotidien.
+Je suis aussi développeur amateur : je code avant tout pour répondre à mes propres besoins ou à ceux de mes clients.
 
-## Ma boussole
+J’apprends en construisant des choses concrètes : petits outils internes, automatisations, prototypes, connexions entre API ou améliorations de sites existants. Le développement me permet de ne pas rester bloqué au stade de l’idée et de mieux travailler avec les spécialistes qui interviennent sur mes projets.
 
-Faire simple à utiliser, propre à maintenir et utile à mesurer. Le code n’est jamais le but : c’est l’outil qui permet de passer de l’idée au concret.
+## Ce que vous trouverez ici
+
+- des projets personnels créés pour apprendre ou résoudre un problème précis ;
+- des outils développés pour faciliter mon travail et celui de mes clients ;
+- des expérimentations autour du web, des API, de l’automatisation et de l’IA ;
+- quelques contributions à des projets que j’utilise au quotidien.
+
+Je ne cherche pas à coder pour coder : ce qui m’intéresse, c’est de comprendre, tester et fabriquer une solution simple qui fonctionne.
 
 ## Par ici
 
